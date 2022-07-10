@@ -1,6 +1,6 @@
 baseURL = 'https://breakingwool.github.io/Artwork'
 languageCode = 'en-us'
-title = 'Artwork'
+title = "Adrian's artwork"
 theme = "ananke"
 
 [params]
